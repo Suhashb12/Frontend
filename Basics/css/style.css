@@ -1,0 +1,6 @@
+h1{
+    color:grey;
+    background-color: yellowgreen;
+}
+
+/* it prints the declaration property which are property(color,background-color) and value(grey,yellowgreen)*/
